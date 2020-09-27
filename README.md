@@ -7,4 +7,4 @@ BTC-2100 is an alternative full node bitcoin cash implementation written in Go  
 
 This project is a port of thebtcdcodebase to Bitcoin Cash. It provides a high powered and reliable blockchain server which makes it a suitable backend to serve blockchain data to lite clients and block explorers or to power your local wallet.
 
-BITCOIN2100 does not include any wallet functionality by design as it makes the codebase more modular and easy to maintain. Thebchwalletis a separate application that provides a secure Bitcoin Cash wallet that communicates with your running Btc2100 instance via the API.
+BITCOIN2100 does not include any wallet functionality by design as it makes the codebase more modular and easy to maintain. BTCWalletis a separate application that provides a secure Bitcoin Cash wallet that communicates with your running Btc2100 instance via the API.
